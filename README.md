@@ -104,11 +104,3 @@ The Zappy GUI provides a user-friendly interface to interact with the Zappy Serv
 * Command input: A text field where users can enter commands to send to the Zappy Server.
 * Output log: Displays the server's responses and other messages for user feedback.
 * The interface may vary depending on the specific implementation of the Zappy GUI.
-
-# Credits
-* Aurélien Duval
-* Ulysse Villanueva
-* Victor Doucet
-* Van Do Pham
-* Zacharie Lacombe
-* Benjamin Besnainou
